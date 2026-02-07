@@ -14,11 +14,11 @@ Currently an **Applied Data Science** student at Collège La Cité in Ottawa, I 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Scikit-learn), Java (OOP), SQL |
+| **Languages** | Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,), Java (OOP), SQL |
 | **Data Science / IA** | Statistics, Supervised/Unsupervised Learning, OpenCV |
 | **Big Data** | MongoDB, HADOOP |
 | **Cloud & Collection** | AWS, Azure, Web Scraping, APIs |
-| **Tools** | Power Query, Excel, Matplotlib, Seaborn |
+| **Tools** | Power Query, Excel, power BI |
 
 ---
 
@@ -30,4 +30,4 @@ Currently an **Applied Data Science** student at Collège La Cité in Ottawa, I 
 ### 📫 Connect with me
 - 📍 Ottawa, Ontario
 - 📧 [taguedongwilly@yahoo.fr](mailto:taguedongwilly@yahoo.fr)
-- 💼 [Add your LinkedIn profile link here]
+- 💼 [https://www.linkedin.com/in/willy-stanlin-taguedong-b28292120/]
