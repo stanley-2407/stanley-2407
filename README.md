@@ -31,3 +31,6 @@ Currently an **Applied Data Science** student at Collège La Cité in Ottawa, I 
 - 📍 Ottawa, Ontario
 - 📧 [taguedongwilly@yahoo.fr](mailto:taguedongwilly@yahoo.fr)
 - 💼 [https://www.linkedin.com/in/willy-stanlin-taguedong-b28292120/]
+- ### 📊 Mes Projets Récents
+- [**Analyse de la relation Diplôme-Revenu (Canada 2021)**](https://github.com/stanley-2407/PROJET_D-ANALYSE_DES_DONNEES) : 
+Étude statistique utilisant des régressions OLS pour analyser l'impact de l'éducation sur le salaire.
