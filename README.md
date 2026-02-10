@@ -34,3 +34,4 @@ Currently an **Applied Data Science** student at Collège La Cité in Ottawa, I 
 - ### 📊 Mes Projets Récents
 - [**Analyse de la relation Diplôme-Revenu (Canada 2021)**](https://github.com/stanley-2407/PROJET_D-ANALYSE_DES_DONNEES) : 
 Étude statistique utilisant des régressions OLS pour analyser l'impact de l'éducation sur le salaire.
+- [**Gestion des notes des étudiants**](https://github.com/stanley-2407/projetgesnotes.git)
